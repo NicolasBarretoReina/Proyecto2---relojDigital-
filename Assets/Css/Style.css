@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    min-height: 100vh;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(26, 34, 32);
+}
+
+.Reloj{
+    border: 0.5rem solid rgb(184, 3, 255) ;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50vh;
+    font-family: "PT Serif", serif;
+    font-style: normal;
+    font-size: 3rem;
+    color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.103);
+}
